@@ -1,11 +1,11 @@
 ---
 name: weimeta-seedance
-display_name: 唯元智创 Seedance 视频生成
+display_name: WEIMETA Seedance｜Agent 视频生成
 display_name_en: WEIMETA Seedance Video Generation
 description: 通过唯元智创 WEIMETA API 平台调用 Seedance 进行 AI 视频生成、图生视频、参考素材生成、视频编辑、视频延长、异步任务查询与成片下载。用户提到 Seedance、即梦视频、视频生成、文生视频、图生视频、AI 视频广告、短剧、漫剧、唯元智创视频 API 时使用本 Skill。适用具备 Shell 和 HTTPS 能力的 Codex、TRAE、WorkBuddy、ZCode 等 Agent。
 description_zh: 使用唯元智创统一 API 生成、查询并下载 Seedance AI 视频，支持文生视频与多模态视频任务。
 description_en: Generate, track and download Seedance videos through the WEIMETA API from compatible coding agents.
-version: 0.3.0
+version: 0.3.1
 author: 唯元智创
 ---
 

@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.3.1 — WorkBuddy display name compatibility
+
+- 将技能展示名修改为 WEIMETA Seedance｜Agent 视频生成，避免技能市场同类名称冲突。
+- 底层 name、API 端点、参数及计费安全机制保持不变。
+
+
 ## V0.3.0-RC1 — 2026-10-19
 
 - 新增签名媒体链接及 API 凭据的输出脱敏，真实旧任务 GET 测试通过，无二次扣费。
